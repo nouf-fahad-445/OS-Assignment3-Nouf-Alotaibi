@@ -2,7 +2,7 @@
 
 **Student Name**: [Nouf fahad Alotaibi]  
 **Student ID**: [445052117]  
-**Date Submitted**: [Submission Date]
+**Date Submitted**: [5 may ]
 
 ---
 
@@ -15,6 +15,7 @@
 > Test the link in incognito/private mode before submitting.
 
 **Video Link**: [Paste your personal Gmail Google Drive link here]
+https://drive.google.com/file/d/1eshjS27jPBLX3mjOBjdNu02jF1uQT525/view?usp=drivesdk
 
 **Video filename**: `[YourStudentID]_Assignment3_Synchronization.mp4`
 
@@ -371,14 +372,20 @@ Synchronization is like a traffic light for your code; it ensures that multiple 
 ## Part 6: GitHub Repository Information
 
 **Repository URL**: 
+https://github.com/nouf-fahad-445/OS-Assignment3-Nouf-Alotaibi.git
 
-**Number of commits**: 
-
+**Number of commits**: 9
 **Commit messages**: 
-1. 
-2. 
-3. 
-4. 
+1. Set my student ID: 445052117
+2. Task 1: added reentrantLock
+3. added semaphore
+4. method incrementContextSwitch updated
+5. method incrementCompletedProcess updated
+6. method add waiting time updated
+7. Method to log execution updated
+8. added cpuSemaphore.acquire and release
+9. Update the runToCompletion method by adding the cpusemaphore acquire
+   
 
 ---
 
